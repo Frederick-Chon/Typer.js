@@ -4,7 +4,7 @@ Typer.js is a simple speed typing game where users type the words seen on the DO
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/Typer.js/)
 
 ## Built Using
 
